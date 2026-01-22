@@ -1,4 +1,4 @@
-CREATE TABLE AAPL (
+CREATE TABLE RAW_AAPL (
     date DATE,
     open DECIMAL(10,2),
     high DECIMAL(10,2),
